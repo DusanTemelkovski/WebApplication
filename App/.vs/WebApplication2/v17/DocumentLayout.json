@@ -1,0 +1,329 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Dusko\\Desktop\\WebApplication2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3E616DAC-DDB5-446C-B25E-41D6E73ACF10}|WebApplication2\\WebApplication2.csproj|c:\\users\\dusko\\desktop\\webapplication2\\webapplication2\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E616DAC-DDB5-446C-B25E-41D6E73ACF10}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E616DAC-DDB5-446C-B25E-41D6E73ACF10}|WebApplication2\\WebApplication2.csproj|c:\\users\\dusko\\desktop\\webapplication2\\webapplication2\\controllers\\ticketscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E616DAC-DDB5-446C-B25E-41D6E73ACF10}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\controllers\\ticketscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E616DAC-DDB5-446C-B25E-41D6E73ACF10}|WebApplication2\\WebApplication2.csproj|c:\\users\\dusko\\desktop\\webapplication2\\webapplication2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3E616DAC-DDB5-446C-B25E-41D6E73ACF10}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E616DAC-DDB5-446C-B25E-41D6E73ACF10}|WebApplication2\\WebApplication2.csproj|c:\\users\\dusko\\desktop\\webapplication2\\webapplication2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E616DAC-DDB5-446C-B25E-41D6E73ACF10}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E616DAC-DDB5-446C-B25E-41D6E73ACF10}|WebApplication2\\WebApplication2.csproj|c:\\users\\dusko\\desktop\\webapplication2\\webapplication2\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E616DAC-DDB5-446C-B25E-41D6E73ACF10}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E616DAC-DDB5-446C-B25E-41D6E73ACF10}|WebApplication2\\WebApplication2.csproj|c:\\users\\dusko\\desktop\\webapplication2\\webapplication2\\models\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E616DAC-DDB5-446C-B25E-41D6E73ACF10}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\models\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E616DAC-DDB5-446C-B25E-41D6E73ACF10}|WebApplication2\\WebApplication2.csproj|c:\\users\\dusko\\desktop\\webapplication2\\webapplication2\\models\\theatreshow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E616DAC-DDB5-446C-B25E-41D6E73ACF10}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\models\\theatreshow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E616DAC-DDB5-446C-B25E-41D6E73ACF10}|WebApplication2\\WebApplication2.csproj|c:\\users\\dusko\\desktop\\webapplication2\\webapplication2\\data\\migrations\\00000000000000_createidentityschema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E616DAC-DDB5-446C-B25E-41D6E73ACF10}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\data\\migrations\\00000000000000_createidentityschema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E616DAC-DDB5-446C-B25E-41D6E73ACF10}|WebApplication2\\WebApplication2.csproj|c:\\users\\dusko\\desktop\\webapplication2\\webapplication2\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3E616DAC-DDB5-446C-B25E-41D6E73ACF10}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E616DAC-DDB5-446C-B25E-41D6E73ACF10}|WebApplication2\\WebApplication2.csproj|c:\\users\\dusko\\desktop\\webapplication2\\webapplication2\\views\\tickets\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3E616DAC-DDB5-446C-B25E-41D6E73ACF10}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\views\\tickets\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E616DAC-DDB5-446C-B25E-41D6E73ACF10}|WebApplication2\\WebApplication2.csproj|c:\\users\\dusko\\desktop\\webapplication2\\webapplication2\\views\\theatreshows\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3E616DAC-DDB5-446C-B25E-41D6E73ACF10}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\views\\theatreshows\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E616DAC-DDB5-446C-B25E-41D6E73ACF10}|WebApplication2\\WebApplication2.csproj|c:\\users\\dusko\\desktop\\webapplication2\\webapplication2\\controllers\\theatreshowscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E616DAC-DDB5-446C-B25E-41D6E73ACF10}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\controllers\\theatreshowscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E616DAC-DDB5-446C-B25E-41D6E73ACF10}|WebApplication2\\WebApplication2.csproj|c:\\users\\dusko\\desktop\\webapplication2\\webapplication2\\data\\migrations\\20240319224459_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E616DAC-DDB5-446C-B25E-41D6E73ACF10}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\data\\migrations\\20240319224459_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E616DAC-DDB5-446C-B25E-41D6E73ACF10}|WebApplication2\\WebApplication2.csproj|c:\\users\\dusko\\desktop\\webapplication2\\webapplication2\\data\\migrations\\20240319225207_init2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E616DAC-DDB5-446C-B25E-41D6E73ACF10}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\data\\migrations\\20240319225207_init2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E616DAC-DDB5-446C-B25E-41D6E73ACF10}|WebApplication2\\WebApplication2.csproj|c:\\users\\dusko\\desktop\\webapplication2\\webapplication2\\data\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E616DAC-DDB5-446C-B25E-41D6E73ACF10}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\data\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E616DAC-DDB5-446C-B25E-41D6E73ACF10}|WebApplication2\\WebApplication2.csproj|c:\\users\\dusko\\desktop\\webapplication2\\webapplication2\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3E616DAC-DDB5-446C-B25E-41D6E73ACF10}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E616DAC-DDB5-446C-B25E-41D6E73ACF10}|WebApplication2\\WebApplication2.csproj|c:\\users\\dusko\\desktop\\webapplication2\\webapplication2\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E616DAC-DDB5-446C-B25E-41D6E73ACF10}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E616DAC-DDB5-446C-B25E-41D6E73ACF10}|WebApplication2\\WebApplication2.csproj|c:\\users\\dusko\\desktop\\webapplication2\\webapplication2\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3E616DAC-DDB5-446C-B25E-41D6E73ACF10}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E616DAC-DDB5-446C-B25E-41D6E73ACF10}|WebApplication2\\WebApplication2.csproj|c:\\users\\dusko\\desktop\\webapplication2\\webapplication2\\data\\migrations\\20240319225622_init3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E616DAC-DDB5-446C-B25E-41D6E73ACF10}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\data\\migrations\\20240319225622_init3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TicketsController.cs",
+              "DocumentMoniker": "C:\\Users\\Dusko\\Desktop\\WebApplication2\\WebApplication2\\Controllers\\TicketsController.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Controllers\\TicketsController.cs",
+              "ToolTip": "C:\\Users\\Dusko\\Desktop\\WebApplication2\\WebApplication2\\Controllers\\TicketsController.cs",
+              "RelativeToolTip": "WebApplication2\\Controllers\\TicketsController.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAEwDwAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T23:09:29.18Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Dusko\\Desktop\\WebApplication2\\WebApplication2\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Dusko\\Desktop\\WebApplication2\\WebApplication2\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "WebApplication2\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T22:21:35.12Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dusko\\Desktop\\WebApplication2\\WebApplication2\\Views\\Tickets\\Create.cshtml",
+              "RelativeDocumentMoniker": "WebApplication2\\Views\\Tickets\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Dusko\\Desktop\\WebApplication2\\WebApplication2\\Views\\Tickets\\Create.cshtml",
+              "RelativeToolTip": "WebApplication2\\Views\\Tickets\\Create.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABUAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-19T23:24:29.463Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Dusko\\Desktop\\WebApplication2\\WebApplication2\\appsettings.json",
+              "RelativeDocumentMoniker": "WebApplication2\\appsettings.json",
+              "ToolTip": "C:\\Users\\Dusko\\Desktop\\WebApplication2\\WebApplication2\\appsettings.json",
+              "RelativeToolTip": "WebApplication2\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-19T23:49:15.879Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Ticket.cs",
+              "DocumentMoniker": "C:\\Users\\Dusko\\Desktop\\WebApplication2\\WebApplication2\\Models\\Ticket.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Models\\Ticket.cs",
+              "ToolTip": "C:\\Users\\Dusko\\Desktop\\WebApplication2\\WebApplication2\\Models\\Ticket.cs",
+              "RelativeToolTip": "WebApplication2\\Models\\Ticket.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T22:35:03.157Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dusko\\Desktop\\WebApplication2\\WebApplication2\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "WebApplication2\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Dusko\\Desktop\\WebApplication2\\WebApplication2\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "WebApplication2\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAABNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-19T23:10:13.978Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "00000000000000_CreateIdentitySchema.cs",
+              "DocumentMoniker": "C:\\Users\\Dusko\\Desktop\\WebApplication2\\WebApplication2\\Data\\Migrations\\00000000000000_CreateIdentitySchema.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Data\\Migrations\\00000000000000_CreateIdentitySchema.cs",
+              "ToolTip": "C:\\Users\\Dusko\\Desktop\\WebApplication2\\WebApplication2\\Data\\Migrations\\00000000000000_CreateIdentitySchema.cs",
+              "RelativeToolTip": "WebApplication2\\Data\\Migrations\\00000000000000_CreateIdentitySchema.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAABUAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T22:52:33.835Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TheatreShow.cs",
+              "DocumentMoniker": "C:\\Users\\Dusko\\Desktop\\WebApplication2\\WebApplication2\\Models\\TheatreShow.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Models\\TheatreShow.cs",
+              "ToolTip": "C:\\Users\\Dusko\\Desktop\\WebApplication2\\WebApplication2\\Models\\TheatreShow.cs",
+              "RelativeToolTip": "WebApplication2\\Models\\TheatreShow.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T22:33:32.564Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Dusko\\Desktop\\WebApplication2\\WebApplication2\\Models\\User.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\Dusko\\Desktop\\WebApplication2\\WebApplication2\\Models\\User.cs",
+              "RelativeToolTip": "WebApplication2\\Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T22:19:46.797Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Dusko\\Desktop\\WebApplication2\\WebApplication2\\Program.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Program.cs",
+              "ToolTip": "C:\\Users\\Dusko\\Desktop\\WebApplication2\\WebApplication2\\Program.cs",
+              "RelativeToolTip": "WebApplication2\\Program.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAACoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T22:18:54.501Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dusko\\Desktop\\WebApplication2\\WebApplication2\\Views\\TheatreShows\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebApplication2\\Views\\TheatreShows\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Dusko\\Desktop\\WebApplication2\\WebApplication2\\Views\\TheatreShows\\Index.cshtml",
+              "RelativeToolTip": "WebApplication2\\Views\\TheatreShows\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-19T23:32:11.678Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "TheatreShowsController.cs",
+              "DocumentMoniker": "C:\\Users\\Dusko\\Desktop\\WebApplication2\\WebApplication2\\Controllers\\TheatreShowsController.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Controllers\\TheatreShowsController.cs",
+              "ToolTip": "C:\\Users\\Dusko\\Desktop\\WebApplication2\\WebApplication2\\Controllers\\TheatreShowsController.cs",
+              "RelativeToolTip": "WebApplication2\\Controllers\\TheatreShowsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T23:00:05.913Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "20240319225622_init3.cs",
+              "DocumentMoniker": "C:\\Users\\Dusko\\Desktop\\WebApplication2\\WebApplication2\\Data\\Migrations\\20240319225622_init3.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Data\\Migrations\\20240319225622_init3.cs",
+              "ToolTip": "C:\\Users\\Dusko\\Desktop\\WebApplication2\\WebApplication2\\Data\\Migrations\\20240319225622_init3.cs",
+              "RelativeToolTip": "WebApplication2\\Data\\Migrations\\20240319225622_init3.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T22:56:22.816Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "20240319225207_init2.cs",
+              "DocumentMoniker": "C:\\Users\\Dusko\\Desktop\\WebApplication2\\WebApplication2\\Data\\Migrations\\20240319225207_init2.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Data\\Migrations\\20240319225207_init2.cs",
+              "ToolTip": "C:\\Users\\Dusko\\Desktop\\WebApplication2\\WebApplication2\\Data\\Migrations\\20240319225207_init2.cs",
+              "RelativeToolTip": "WebApplication2\\Data\\Migrations\\20240319225207_init2.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T22:52:07.894Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ApplicationDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\Dusko\\Desktop\\WebApplication2\\WebApplication2\\Data\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Data\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\Dusko\\Desktop\\WebApplication2\\WebApplication2\\Data\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeToolTip": "WebApplication2\\Data\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ViewState": "AQIAAGIAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T22:48:26.395Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "20240319224459_init.cs",
+              "DocumentMoniker": "C:\\Users\\Dusko\\Desktop\\WebApplication2\\WebApplication2\\Data\\Migrations\\20240319224459_init.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Data\\Migrations\\20240319224459_init.cs",
+              "ToolTip": "C:\\Users\\Dusko\\Desktop\\WebApplication2\\WebApplication2\\Data\\Migrations\\20240319224459_init.cs",
+              "RelativeToolTip": "WebApplication2\\Data\\Migrations\\20240319224459_init.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T22:44:59.207Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dusko\\Desktop\\WebApplication2\\WebApplication2\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebApplication2\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Dusko\\Desktop\\WebApplication2\\WebApplication2\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "WebApplication2\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-19T22:28:47.593Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Dusko\\Desktop\\WebApplication2\\WebApplication2\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Dusko\\Desktop\\WebApplication2\\WebApplication2\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "WebApplication2\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T22:28:35.476Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dusko\\Desktop\\WebApplication2\\WebApplication2\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "WebApplication2\\Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "C:\\Users\\Dusko\\Desktop\\WebApplication2\\WebApplication2\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "WebApplication2\\Views\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-19T22:22:36.246Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
